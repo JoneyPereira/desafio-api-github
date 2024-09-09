@@ -5,7 +5,7 @@ import './styles.css';
 const Home = () => {
     return (
         <div className="home-container">
-            <Link to="/cepsearch">
+            <Link to="/gitsearch">
                 <button className="btn btn-primary btn-lg start-button">Iniciar</button>
             </Link>
         </div>
